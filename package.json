@@ -1,5 +1,5 @@
 {
-  "name": "BENNYBOT",
+  "name": "RIMURU BOTZ",
   "version": "1.0.0",
   "description": "Termux or Command Prompt",
   "main": "index.js",
@@ -25,7 +25,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Benny Hidayat",
+  "author": "RIMURU",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bennysolo/BennyBOTWA/issues"
